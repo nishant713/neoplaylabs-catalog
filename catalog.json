@@ -1,0 +1,103 @@
+{
+  "apps": [
+    {
+      "package_name": "com.neoplaylabs.flightid",
+      "name": "Flight ID",
+      "description": "Live overhead ADS-B flight radar and augmented sky tracking.",
+      "category": "apps",
+      "icon_url": "https://raw.githubusercontent.com/nishant713/NeoPlayLabs/master/app-assets/flightid.png",
+      "status": "closed_testing",
+      "play_store_url": "market://details?id=com.neoplaylabs.flightid",
+      "test_opt_in_url": "https://play.google.com/apps/testing/com.neoplaylabs.flightid",
+      "google_group_url": "https://groups.google.com/g/neoplaylabs-testers"
+    },
+    {
+      "package_name": "com.neolabs.skytracker",
+      "name": "SkyTracker Live (Beta)",
+      "description": "Experimental real-time satellite pass & ISS orbit tracking for Wear OS.",
+      "category": "apps",
+      "icon_url": "",
+      "status": "closed_testing",
+      "play_store_url": "market://details?id=com.neolabs.skytracker",
+      "test_opt_in_url": "https://play.google.com/apps/testing/com.neolabs.skytracker",
+      "google_group_url": "https://groups.google.com/g/neoplaylabs-testers"
+    },
+    {
+      "package_name": "com.neoplaylabs.findmycar",
+      "name": "Find My Car",
+      "description": "Save parking spot and navigate back via compass and live GPS.",
+      "category": "apps",
+      "icon_url": "https://raw.githubusercontent.com/nishant713/NeoPlayLabs/master/app-assets/findmycar.png",
+      "status": "production",
+      "play_store_url": "market://details?id=com.neoplaylabs.findmycar",
+      "test_opt_in_url": "https://play.google.com/apps/testing/com.neoplaylabs.findmycar",
+      "google_group_url": ""
+    },
+    {
+      "package_name": "com.neoplaylabs.ambicharge",
+      "name": "AmbiCharge (Pixel Charging)",
+      "description": "Pixel-style ambient charging screen and dynamic battery clock.",
+      "category": "watch_faces",
+      "icon_url": "https://raw.githubusercontent.com/nishant713/NeoPlayLabs/master/app-assets/ambicharge.png",
+      "status": "production",
+      "play_store_url": "market://details?id=com.neoplaylabs.ambicharge",
+      "test_opt_in_url": "https://play.google.com/apps/testing/com.neoplaylabs.ambicharge",
+      "google_group_url": ""
+    },
+    {
+      "package_name": "com.neoplaylabs.launchern",
+      "name": "LauncherN",
+      "description": "Smooth app drawer and fast customizable watch launcher.",
+      "category": "apps",
+      "icon_url": "https://raw.githubusercontent.com/nishant713/NeoPlayLabs/master/app-assets/launchern.png",
+      "status": "production",
+      "play_store_url": "market://details?id=com.neoplaylabs.launchern",
+      "test_opt_in_url": "https://play.google.com/apps/testing/com.neoplaylabs.launchern",
+      "google_group_url": ""
+    },
+    {
+      "package_name": "com.neoplaylabs.sunmoontiles",
+      "name": "Sun & Moon Tiles",
+      "description": "Glanceable tiles for sunrise, sunset, golden hour & moon phase.",
+      "category": "apps",
+      "icon_url": "https://raw.githubusercontent.com/nishant713/NeoPlayLabs/master/app-assets/sunmoontiles.png",
+      "status": "production",
+      "play_store_url": "market://details?id=com.neoplaylabs.sunmoontiles",
+      "test_opt_in_url": "https://play.google.com/apps/testing/com.neoplaylabs.sunmoontiles",
+      "google_group_url": ""
+    },
+    {
+      "package_name": "com.neoplaylabs.wearalarmsync",
+      "name": "Wear Alarm Sync",
+      "description": "Two-way phone and watch alarm sync with haptic vibration alerts.",
+      "category": "apps",
+      "icon_url": "https://raw.githubusercontent.com/nishant713/NeoPlayLabs/master/app-assets/wearalarmsync.png",
+      "status": "production",
+      "play_store_url": "market://details?id=com.neoplaylabs.wearalarmsync",
+      "test_opt_in_url": "https://play.google.com/apps/testing/com.neoplaylabs.wearalarmsync",
+      "google_group_url": ""
+    },
+    {
+      "package_name": "com.neoplaylabs.wearbounce",
+      "name": "Wear Bounce",
+      "description": "Physics-based bouncing ball wrist watch face & mini game.",
+      "category": "watch_faces",
+      "icon_url": "https://raw.githubusercontent.com/nishant713/NeoPlayLabs/master/app-assets/wearbounce.png",
+      "status": "production",
+      "play_store_url": "market://details?id=com.neoplaylabs.wearbounce",
+      "test_opt_in_url": "https://play.google.com/apps/testing/com.neoplaylabs.wearbounce",
+      "google_group_url": ""
+    },
+    {
+      "package_name": "com.neolabs.chronowave",
+      "name": "ChronoWave (Beta)",
+      "description": "Fluid hydro-wave simulation digital watch face with dynamic complications.",
+      "category": "watch_faces",
+      "icon_url": "",
+      "status": "closed_testing",
+      "play_store_url": "market://details?id=com.neolabs.chronowave",
+      "test_opt_in_url": "https://play.google.com/apps/testing/com.neolabs.chronowave",
+      "google_group_url": "https://groups.google.com/g/neoplaylabs-testers"
+    }
+  ]
+}
