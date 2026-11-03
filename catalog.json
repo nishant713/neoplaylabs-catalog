@@ -61,7 +61,7 @@
       "description": "Physics-based bouncing ball wrist watch face & mini game.",
       "category": "apps",
       "icon_url": "https://raw.githubusercontent.com/nishant713/NeoPlayLabs/master/app-assets/wearbounce.png",
-      "status": "production",
+      "status": "unreleased",
       "play_store_url": "market://details?id=com.neolabs.wearbounce",
       "test_opt_in_url": "https://play.google.com/apps/testing/com.neolabs.wearbounce",
       "google_group_url": ""
@@ -83,7 +83,7 @@
       "description": "Clean dot-matrix digital watch face with customizable complication slots.",
       "category": "watch_faces",
       "icon_url": "https://raw.githubusercontent.com/nishant713/NeoPlayLabs/master/app-assets/dots.png",
-      "status": "production",
+      "status": "unreleased",
       "play_store_url": "market://details?id=com.neolabs.dots",
       "test_opt_in_url": "https://play.google.com/apps/testing/com.neolabs.dots",
       "google_group_url": ""
@@ -94,7 +94,7 @@
       "description": "Minimalist Pixel-inspired Material You watch face with dynamic colors.",
       "category": "watch_faces",
       "icon_url": "https://raw.githubusercontent.com/nishant713/NeoPlayLabs/master/app-assets/pixelface7.png",
-      "status": "production",
+      "status": "unreleased",
       "play_store_url": "market://details?id=com.neolabs.pixelface7",
       "test_opt_in_url": "https://play.google.com/apps/testing/com.neolabs.pixelface7",
       "google_group_url": ""
